@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.izettle:html2bitmap:1.10@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/26eb71b1eb5c23572b7fa82c0aa39a9d/transformed/html2bitmap-1.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/26eb71b1eb5c23572b7fa82c0aa39a9d/transformed/html2bitmap-1.10/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.izettle/html2bitmap/1.10/e81c58fbae9bae48af1f31350cb3fae245c604e2/html2bitmap-1.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.izettle/html2bitmap/1.10/798d673e2b5da7390c7950c35d89c6f8ccf96714/html2bitmap-1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

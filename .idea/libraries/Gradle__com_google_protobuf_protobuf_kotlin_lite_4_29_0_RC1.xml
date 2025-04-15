@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.protobuf:protobuf-kotlin-lite:4.29.0-RC1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.google.protobuf" artifactId="protobuf-kotlin-lite" version="4.29.0-RC1" baseVersion="4.29.0-RC1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-kotlin-lite/4.29.0-RC1/447a363eedfc4e3fa1b4521b3db3064fe7307f80/protobuf-kotlin-lite-4.29.0-RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-kotlin-lite/4.29.0-RC1/1532100b86ec3a31654d127663027f251c40b49/protobuf-kotlin-lite-4.29.0-RC1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-kotlin-lite/4.29.0-RC1/c8c4160ee0b68ae155a4fd9ec28d75e2d0a47245/protobuf-kotlin-lite-4.29.0-RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
